@@ -1,0 +1,9 @@
+
+.container{
+    background-color: blue;
+    display:flex;
+}
+.item>img{
+    width:100%;
+    height:auto
+}
